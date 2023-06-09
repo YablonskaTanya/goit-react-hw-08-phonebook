@@ -9,4 +9,5 @@
   outline: auto #291578;
   outline-offset: -10px;
   width: 600px;
+  min-height: 400px;
 }
