@@ -1,16 +1,13 @@
 .authNavContainer {
-  /* margin-top: 50px; */
-  /* display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 15px; */
   font-size: 28px;
   font-weight: 600;
+  font-style: inherit;
+  display: flex;
+  gap: 20px;
   font-style: inherit;
 }
 
 .link {
-  /* text-decoration: none; */
-
+  text-decoration: none;
   color: inherit;
 }

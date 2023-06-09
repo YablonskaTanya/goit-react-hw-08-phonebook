@@ -1,10 +1,4 @@
 .sharedLayoutBar {
-  /* width: 400px;
-  height: 500px; */
-  /* display: flex;
-  gap: 20px;
-  flex-direction: column;
-  align-items: center; */
   margin-left: auto;
   margin-right: auto;
 
@@ -14,4 +8,5 @@
   padding: 40px 20px;
   outline: auto #291578;
   outline-offset: -10px;
+  width: 600px;
 }
